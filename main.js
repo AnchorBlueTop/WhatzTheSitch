@@ -191,7 +191,7 @@ async function gsrun(cl){
                         [unknownActiveTotalTxt, unknownTotalTxt, unknownHospitalTotalTxt]]
 
     const updateOptions = {
-        spreadsheetId: '1kLT_bCo1MoknF1O_XzekIjHimQDQF38b3gQ9NDlWuys',
+        spreadsheetId: 'KEY-EXCLUDED',
         range: 'A1:A11',
         valueInputOption: 'USER_ENTERED',
         resource: {values: dataArray}
@@ -209,12 +209,12 @@ async function gsrun(cl){
     let dailyTestsArray = [[full_date, dailyTestsTxt]];
 
     const opt = {
-        spreadsheetId: '1K1TE8zEWnvXlxF_bPIvZZnQSpc4JmP2qry8FaMeXevo',
+        spreadsheetId: 'KEY-EXCLUDED',
         range: 'A:B'
     };
 
     const opt2 = {
-        spreadsheetId: '1_4bNQNDwBzjuUzmvvVEEHMGXOR8TFDzYeoFa0jYpFLk',
+        spreadsheetId: 'KEY-EXCLUDED',
         range: 'A:B'
     };
 
@@ -241,14 +241,14 @@ async function gsrun(cl){
     let borderCasesArray = [[full_date2, borderCasesTxt]];
   
     const updateOptions2 = {
-        spreadsheetId: '1K1TE8zEWnvXlxF_bPIvZZnQSpc4JmP2qry8FaMeXevo',
+        spreadsheetId: 'KEY-EXCLUDED',
         range: range_string,
         valueInputOption: 'USER_ENTERED',
         resource: {values: dateCommunityCases}
     };
 
     const updateOptions3 = {
-        spreadsheetId: '14qOxvMAN0mk2ffWmNu7eW1A0j2OcsV5JoPiSt29p16w',
+        spreadsheetId: 'KEY-EXCLUDED',
         range: range_string,
         valueInputOption: 'USER_ENTERED',
         resource: {values: dailyTestsArray}
@@ -256,21 +256,21 @@ async function gsrun(cl){
 
 
     const updateOptions4 = {
-        spreadsheetId: '1_4bNQNDwBzjuUzmvvVEEHMGXOR8TFDzYeoFa0jYpFLk',
+        spreadsheetId: 'KEY-EXCLUDED',
         range: range_string2,
         valueInputOption: 'USER_ENTERED',
         resource: {values: dailyLocation}
     };
 
     const updateOptions5 = {
-        spreadsheetId: '1qs4a4laPQ6-m4zLcrcmPYX8NIKgdJp72OR_aOldbMxk',
+        spreadsheetId: 'KEY-EXCLUDED',
         range: range_string,
         valueInputOption: 'USER_ENTERED',
         resource: {values: borderCasesArray}
     };
 
     const updateOptions6 = {
-        spreadsheetId: '1VK7ByhCsZmVzkb28AABTPvnOtOAfk9i3NVRN8TsrYtQ',
+        spreadsheetId: 'KEY-EXCLUDED',
         range: 'B2:D7',
         valueInputOption: 'USER_ENTERED',
         resource: {values: ethnicityArray}
