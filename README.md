@@ -10,9 +10,9 @@ https://github.com/AnchorBlueTop/WhatzTheSitch/assets/98157644/8aaac1cf-1457-4c4
 
 Get relevant daily NZ Covid-19 information in one clear and concise view.
 
-![image18](https://github.com/AnchorBlueTop/WhatzTheSitch/assets/98157644/635791ac-5f39-440c-8677-ec6afa8daa05) 
-
 Graphs with data from the start of the 2021 August community delta outbreak that the user is able to interact with.
+
+![image05](https://github.com/AnchorBlueTop/WhatzTheSitch/assets/98157644/d41dc151-4b57-4aac-bdfa-2ba06651f08a)
 
 https://github.com/AnchorBlueTop/WhatzTheSitch/assets/98157644/9fa13ba1-1cdb-419e-99dd-9f98e0f231a4
 
