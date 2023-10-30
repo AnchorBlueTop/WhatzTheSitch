@@ -14,10 +14,5 @@ Get relevant daily NZ Covid-19 information in one clear and concise view.
 
 Graphs with data from the start of the 2021 August community delta outbreak that the user is able to interact with.
 
-![IMG_5456](https://github.com/AnchorBlueTop/WhatzTheSitch/assets/98157644/37a65592-3045-431d-ae2f-cf2e3562eddd)
-
-Works seamlessly with dark mode so it's easy on the eyes.
-
-
-
+https://github.com/AnchorBlueTop/WhatzTheSitch/assets/98157644/9fa13ba1-1cdb-419e-99dd-9f98e0f231a4
 
