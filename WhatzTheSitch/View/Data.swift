@@ -13,7 +13,7 @@ struct Post: Codable {
     let values: [[String]]
 }
 
-// Each class contatins a function that is an async GET request to retreive data from a Google Sheets spreadsheet.
+// Each class serves as an API endpoint to retreive data from a Google Sheets spreadsheet.
 
 
 class Api {
